@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NestedLayout</string>
+    <string name="john">HOME</string>
+    <string name="home">HOME</string>
+    <string name="first_lesson" />
+    <string name="kibu">KIBU</string>
+</resources>
